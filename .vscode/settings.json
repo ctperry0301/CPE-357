@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "stat.h": "c",
+        "_timespec.h": "c",
+        "signal.h": "c",
+        "types.h": "c",
+        "mman.h": "c",
+        "dirent.h": "c",
+        "time.h": "c",
+        "wait.h": "c"
+    }
+}
